@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brianna Ransome Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Brianna Ransome's Portfolio</h1>
+        <p>Select a section to explore:</p>
+    </header>
+
+    <main>
+        <ul>
+            <li><a href="about.html">About Me</a></li>
+            <li><a href="work.html">Work / Experience</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </main>
